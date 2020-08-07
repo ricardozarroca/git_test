@@ -1,0 +1,2 @@
+Hello Facu!! This is my first project with git and github!!
+All made in the terminal!!!
